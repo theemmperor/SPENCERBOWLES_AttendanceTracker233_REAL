@@ -33,7 +33,14 @@ table {
     padding-top: 10px;
     height:50px;
 }
- 
+
+#splashScreen {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 #itemWrapper {
     width: 480px;
     height: 180px;
